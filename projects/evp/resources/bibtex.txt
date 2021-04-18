@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{ji2021audio-driven,
+title={ Audio-Driven Emotional Video Portraits},
+author={Ji, Xinya and Zhou, Hang and Wang, Kaisiyuan and Wu, Wayne and Loy, Chen Change and Cao, Xun and Xu, Feng},
+booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+year={2021}
 }
