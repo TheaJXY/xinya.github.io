@@ -1,0 +1,11 @@
+@inproceedings{10.1145/3528233.3530745,
+author = {Ji, Xinya and Zhou, Hang and Wang, Kaisiyuan and Wu, Qianyi and Wu, Wayne and Xu, Feng and Cao, Xun},
+title = {EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model},
+year = {2022},
+isbn = {9781450393379},
+url = {https://doi.org/10.1145/3528233.3530745},
+doi = {10.1145/3528233.3530745},
+booktitle = {ACM SIGGRAPH 2022 Conference Proceedings},
+series = {SIGGRAPH '22}
+}
+
